@@ -4,16 +4,19 @@
 
 Google Book search is a MERN Stack based web app which allows users to search and save books from Google Books API.
 
+### Heroku Link: [Google Book Search](https://google-book-search-k.herokuapp.com/)
+
 ## Technology Stack
 
 - HTML
 - CSS
 - JavaScript
 - Node.js
+- React
 - MongoDB
 - GraphQL
 
-## Instructions for initializing web app:
+## Instructions for initializing web app on localhost:
 
 - Install Node JS, MongoDB in the machine.
 - Start MongoDB server: `sudo service mongod start`
